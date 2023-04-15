@@ -1,0 +1,9 @@
+.stars-raiting__item {
+	margin-left: 10px;
+
+	list-style: none;
+}
+
+.stars-raiting__item:first-child {
+	margin-left: 0px;
+}
